@@ -1,10 +1,10 @@
 # Welcome to Vaizr Professional Power UI
 
 ## Overview
-Vaizr Professional Power UI is a fast, simple and open low-code platform that's geared towards building enterprise ready applications fast.
+Vaizr Professional Power UI is a fast, simple and open low-code platform that's geared towards building enterprise-ready applications fast.
 
 ### Host anywhere
-Vaizr builds completely independant war's which run on any Sevlet Engine.  However Vaizrdemo download comes prepackaged with Tomcat, Apache, PostgreSQL and NetBeans which is installed on Ubuntu 14.04 LTS.
+Vaizr builds completely independent war's, which run on any Sevlet Engine.  However Vaizrdemo download comes prepackaged with Tomcat, Apache, PostgreSQL and NetBeans which is installed on Ubuntu 14.04 LTS.
 
 The demo development environment runs completely on the ubuntu box. The GUI of NetBeans and the different browsers like google-chrome and firefox are displayed to you via **X-Windows**. The X-Windows software on your machine is called the **host** or **server**. The X-Windows part on the remote machine, the vaizrdemobox either on VirtualBox or on AWS are called the **guest** or **client**.
 
